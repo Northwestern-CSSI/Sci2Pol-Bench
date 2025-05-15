@@ -21,9 +21,15 @@
 </p>
 
 ### About
-```
-TBA
-```
+<img src="./media/Sci2Pol-Bench-Taxonomy.png" align="left" width=700 height=500>
+
+The data consists of policy briefs obtained from [Nature Energy](https://www.nature.com/nenergy/articles?type=policy-brief), [Nature Climate](https://www.nature.com/nclimate/articles?type=policy-brief), [Nature Cities](https://www.nature.com/natcities/articles?type=policy-brief), and [Journal of Health and Social Behavior Policy Briefs](https://www.asanet.org/publications/journals/journal-of-health-and-social-behavior-policy-briefs/).
+
+[Policy briefs](https://www.nature.com/articles/s41560-019-0489-9) originally were introduced in the *Nature Energy* journal with the goal of:
+
+>This format aims to provide policy professionals with accessible summaries of research papers published in our journal, written by the paper’s authors on invitation by our editors
+
+Finding the reference scientific paper used for writing the policy briefs is relatively straightforward amongst the *Nature-x* briefs since each brief says "based on: title doi" for the associated paper. The information from *Journal of Health and Social Behavior Policy Briefs* operates on similar principle but the original paper had to be searched and manually discovered from the list of articles written by authors. Disambiguation of title was not necessary since most articles had either same or similar titles used for the policy brief.
 
 ### Usage
 ```
@@ -32,7 +38,6 @@ TBA
 
 
 ### Authors
-> Project contributors and Maintainers
 [Weimin Wu](https://github.com/WeiminWu2000), [Alexander Furnas](https://github.com/alexanderfurnas), [Eddie](https://github.com/EddieYang211), [Akhil](https://github.com/akhilpandey95), [Guo Ye](#), [Xuefeng Song](#).
 
 ### Advisors
